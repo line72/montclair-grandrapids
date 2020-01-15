@@ -1,5 +1,5 @@
-# Montclair
+# Go Grand Rapids
 
-This is a simple project to show a live view of all the buses in the Birmigham, AL Transit Systems.
+Real Time Tracking of the Buses for Grand Rapids, MI
 
-https://montclair.line72.net/
+https://grandrapids.gotransitapp.com
